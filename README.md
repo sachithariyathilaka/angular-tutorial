@@ -7,13 +7,13 @@ Angular sample project.
   * Angular 16
   * TypeScript 5
 
-* ### Configuration
-  * https://sachithariyathilaka.medium.com/angular-8-54a61e423b74
+* ### Documentation
+  * [Read on Medium](https://sachithariyathilaka.medium.com/angular-8-54a61e423b74)
 
 * ### Release Note
 
-  * Release: 1.0.0
-  * Date: 2024/05/05
+  * Version: 1.0.0
+  * Release Date: 2024/05/05
   * Module: Angular Tutorial
   * Changes
     * Implement the angular sample tutorial.
